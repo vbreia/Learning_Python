@@ -10,8 +10,8 @@ class Bicicleta:
         print('\nPlim, plim ... \n ')
 
     def parar(self):
-        print('Parando biscicleta ...')
-        print('Biscicleta parada. \n ')
+        print('Parando bicicleta ...')
+        print('Bicicleta parada. \n ')
 
     def correr(self):
         print('Vrummm ...\n')
