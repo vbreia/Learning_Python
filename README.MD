@@ -2,7 +2,9 @@
 Neste repositório se encontram alguns testes e projetos dos meus estudos de aprimoramento em Python. 
 
 O estudo está sendo feito pelo bootcamp [**Geração Tech Unimed-BH - Ciência de Dados** ](https://web.dio.me/track/ee0706bf-2d0a-4c45-8611-c1ee3b5fee2d) pela plataforma plataforma de cursos [**DIO.me**](https://dio.me) 
-<center><img src="https://hermes.dio.me/tracks/342f7392-a8b5-421f-bea9-d29f1fd8aae9.png" width="60px;" alt=""/> <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="80px;" alt=""/> </center>
+<table border="0" vAlign="bottom" >
+      <tr><td><img src="https://hermes.dio.me/tracks/342f7392-a8b5-421f-bea9-d29f1fd8aae9.png" width="60px;" alt=""/></td><td><img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="80px;" alt=""/></td></tr>
+</table> 
 
 
 ### Índice dos projetos:
