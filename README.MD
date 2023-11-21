@@ -2,7 +2,7 @@
 Neste repositório se encontram alguns testes e projetos dos meus estudos de aprimoramento em Python. O estudo está sendo feito pela plataforma de cursos [DIO.me](https://dio.me) 
 
 ### Índice dos projetos:
-1. Bicicleta
+1. [Bicicleta](https://github.com/vbreia/Learning_Python/blob/main/Projetos_POO/01_Bicicleta_Classes_Functions_ListComprehensions.py)
  - Orientação a objetos
  - Classes e Funções
  - List Comprehension
