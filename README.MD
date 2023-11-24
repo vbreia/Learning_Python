@@ -14,7 +14,8 @@ O estudo está sendo feito pelo bootcamp [**Geração Tech Unimed-BH - Ciência 
 | Proj-2 | [Veículos](https://github.com/vbreia/Learning_Python/blob/main/Projetos_POO/02_heranca_simples_veiculo.py)                         | `Herança simples, Super Construtor`                           |
 | Proj-3 | [Animais](https://github.com/vbreia/Learning_Python/blob/main/Projetos_POO/03_heranca_multipla_animais.py)                            | `Herança múltipla, Super Construtor, kwargs, mixin`           |
 | Proj-4 | [Conta Bancária](https://github.com/vbreia/Learning_Python/blob/main/Projetos_POO/04_Conta_Encapsulamento.py)                            | `Encapsulamento, Recursos públicos e privados`           |
-| Proj-5 | [Foo Property](https://github.com/vbreia/Learning_Python/blob/main/Projetos_POO/05_Foo_Propriedades.py)                            | `Decoradores: @roperty, @setter, @deleter`           |
+| Proj-5 | [Foo Property](https://github.com/vbreia/Learning_Python/blob/main/Projetos_POO/05_Foo_Propriedades.py)                            | `Decoradores: @property, @setter, @deleter`           |
+| Proj-6 | [Calculadora de Idade](https://github.com/vbreia/Learning_Python/blob/main/Projetos_POO/06_Calc_Idade_Dec_Property.py)                            | `Decorador @property`           |
 
 ### Feito por:
 
