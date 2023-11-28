@@ -6,7 +6,7 @@ O estudo está sendo feito pelo bootcamp [**Geração Tech Unimed-BH - Ciência 
 
 [<img src="https://hermes.dio.me/tracks/342f7392-a8b5-421f-bea9-d29f1fd8aae9.png" width="100"/>](https://hermes.dio.me/tracks/342f7392-a8b5-421f-bea9-d29f1fd8aae9.png) [<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="160"/>](https://hermes.digitalinnovation.one/assets/diome/logo-full.svg)
 
-### Índice dos projetos:
+### Índice dos exercícios feitos em aula:
 
 | Projeto  | Nome                                                                                                                               | Conteúdo abordado                                             |
 | -------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
@@ -16,6 +16,10 @@ O estudo está sendo feito pelo bootcamp [**Geração Tech Unimed-BH - Ciência 
 | Proj-4 | [Conta Bancária](https://github.com/vbreia/Learning_Python/blob/main/Projetos_POO/04_Conta_Encapsulamento.py)                            | `Encapsulamento, Recursos públicos e privados`           |
 | Proj-5 | [Foo Property](https://github.com/vbreia/Learning_Python/blob/main/Projetos_POO/05_Foo_Propriedades.py)                            | `Decoradores: @property, @setter, @deleter`           |
 | Proj-6 | [Calculadora de Idade](https://github.com/vbreia/Learning_Python/blob/main/Projetos_POO/06_Calc_Idade_Dec_Property.py)                            | `Decorador @property`           |
+| Proj-7 | [Passaros Polimorfismo](https://github.com/vbreia/Learning_Python/blob/main/Projetos_POO/07_Passaros_polimorfismo.py)                            | `Polimorfismo`           |
+| Proj-8 | [Escola Atributos_Classe_Instancia](https://github.com/vbreia/Learning_Python/blob/main/Projetos_POO/08_Escola_atributos_classe_instancia.py)                            | `Variáveis de classe e Variáveis de instância`           |
+| Proj-9 | [Pessoa Métodos de Classe e Métodos Estáticos](https://github.com/vbreia/Learning_Python/blob/main/Projetos_POO/09_Pessoa_metodos_classe_estatico.py)                            | `Decoradores : @classmethod e @staticmethod`           |
+| Proj-10 | [Controle Remoto Classe Abstrata / Interfaces](https://github.com/vbreia/Learning_Python/blob/main/Projetos_POO/10_ControleRemoto_Classe_Abstrata.py)                            | `Módulo ABC (abstract base class), Decoradores : @abstractmethod,  @property,  @abstractproperty`           |
 
 ### Feito por:
 
