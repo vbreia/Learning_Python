@@ -6,7 +6,7 @@ O estudo está sendo feito pelo bootcamp [**Geração Tech Unimed-BH - Ciência 
 
 <div align="center">
 
-<a href="https://hermes.dio.me/tracks/342f7392-a8b5-421f-bea9-d29f1fd8aae9.png"><img src="https://hermes.dio.me/tracks/342f7392-a8b5-421f-bea9-d29f1fd8aae9.png" width="130"/></a>
+<a href="https://web.dio.me/track/geracao-tech-unimed-bh-ciencia-de-dados"><img src="https://hermes.dio.me/tracks/342f7392-a8b5-421f-bea9-d29f1fd8aae9.png" width="130"/></a>
 
 </div>
 
